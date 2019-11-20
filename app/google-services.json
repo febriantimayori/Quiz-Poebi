@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "275786861010",
+    "firebase_url": "https://quiz-pobie.firebaseio.com",
+    "project_id": "quiz-pobie",
+    "storage_bucket": "quiz-pobie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275786861010:android:02a20592ebc201afd0e00b",
+        "android_client_info": {
+          "package_name": "com.example.quizpubie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275786861010-8ncr1qti0thciaknji25th1a3s12tpig.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quizpubie",
+            "certificate_hash": "a688cb041c5f7616dd3c4e397d8af747b6118051"
+          }
+        },
+        {
+          "client_id": "275786861010-tp0e6ail3tk08aujn4nq3ukqq3o2t00e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzSaIcGZzjHwlYww6KobRyro0h-Wd0o_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275786861010-tp0e6ail3tk08aujn4nq3ukqq3o2t00e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
